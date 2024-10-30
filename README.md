@@ -10,7 +10,7 @@ Hello! I'm Lucas, a passionate developer.
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucashpinheiro&repo=Lucashpinheiro.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucashpinheiro&repo=clone_disney_plus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
